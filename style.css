@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+}
+#pg1{
+    height: 70vh;
+    width: 100%;
+    background-color: #3b5d50;
+    color: white;
+}
+nav b{
+    padding-bottom: 7px;
+}
+nav b:hover{
+    border-bottom: 5px solid #f9bf29;
+}
+nav b{
+    transition: all 0.5ms linear;
+}
+nav i{
+    font-weight: bold;
+}
+#pg2{
+    height: 50vh;
+    width: 100%;
+}
+#pg4{
+    height: 90vh;
+    width: 100%;
+}
+#info{
+    margin-top: 50px;
+    height: 25vh;
+    text-align: center;
+}
+#pg7 span{
+    font-weight: bold;
+}
+footer{
+    color: #3b5d50;
+}
+footer ul li{
+    list-style: none;
+    margin-top: 10px;
+}
